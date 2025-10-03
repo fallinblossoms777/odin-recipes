@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 217, 160);
+    font-family: "Lucida Handwriting", "Times New Roman", Times, serif;
+}
+
+h1{
+    padding: 30px;
+    background-color: white;
+    margin: 40px;
+    text-align: center;
+    font-size: 160x;
+    color: rgb(255, 217, 160);
+    border: 2px solid rgb(167, 142, 106);
+}
