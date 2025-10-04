@@ -37,12 +37,14 @@ body{
 
 .information-recipe{
     padding: 40px;
-    width: 900px;
+    width: 1000px;
 }
 
 .information-recipe img{
     height: auto;
     width: 900px;
+    display: block;
+    margin: 0 auto;
 }
 
 .recipe h1{
