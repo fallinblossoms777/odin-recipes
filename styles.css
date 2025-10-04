@@ -6,9 +6,32 @@ body{
 h1{
     padding: 30px;
     background-color: white;
-    margin: 40px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    width: 260px;
     text-align: center;
     font-size: 160x;
     color: rgb(255, 217, 160);
     border: 2px solid rgb(167, 142, 106);
 }
+
+.recipes{
+    background-color: white;
+    width: auto;
+    padding: 10px;
+    border: 2px solid rgb(167, 142, 106);
+    font-size: 20px;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+.black_forest, .flan, .lemon_pie{
+    margin-bottom: 40px;
+}
+
